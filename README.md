@@ -10,10 +10,10 @@ A comprehensive implementation of mecanum wheel kinematics, designed for robotic
 
 ## Installation
 
-To use mameMecanumKinematics, download the [`mameMecanumKinematics.hpp`](https://github.com/ar90n/mameMecanumKinematics/blob/main/src/mameMecanumKinematics.hpp) file and include it in your project.
+To use mameMecanumKinematics, download the [`mameMecanumKinematics.hpp`](https://github.com/ar90n/mamePID/blob/main/src/mamePID.hpp) file and include it in your project.
 
 ```bash
-wget https://github.com/ar90n/mameMecanumKinematics/blob/main/src/mameMecanumKinematics.hpp
+wget https://raw.githubusercontent.com/ar90n/mameMecanumKinematics/refs/heads/main/src/mameMecanumKinematics.hpp
 ```
 
 ## Usage
